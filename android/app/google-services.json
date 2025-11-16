@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144084324397",
+    "project_id": "twithub-app",
+    "storage_bucket": "twithub-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144084324397:android:b621c78f4c6d3d85ad28a4",
+        "android_client_info": {
+          "package_name": "com.example.twithub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFapobvHEraeybrTZ097jM6y5eyWqsSuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

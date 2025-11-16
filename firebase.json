@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"twithub-app","appId":"1:144084324397:android:b621c78f4c6d3d85ad28a4","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"twithub-app","configurations":{"android":"1:144084324397:android:b621c78f4c6d3d85ad28a4","ios":"1:144084324397:ios:e64d9a995fb0c430ad28a4"}}}}}}
