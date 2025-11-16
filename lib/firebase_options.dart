@@ -50,21 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '',
-    appId: '',
-    messagingSenderId: '',
-    projectId: '',
-    storageBucket: '',
+    apiKey: 'AIzaSyAFapobvHEraeybrTZ097jM6y5eyWqsSuY',
+    appId: '1:144084324397:android:b621c78f4c6d3d85ad28a4',
+    messagingSenderId: '144084324397',
+    projectId: 'twithub-app',
+    storageBucket: 'twithub-app.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: '',
-    appId: '',
-    messagingSenderId: '',
-    projectId: '',
-    storageBucket: '',
-    iosBundleId: '',
+    apiKey: 'AIzaSyDbxpNix_8BWNbk3CozBShsrmMEvvNUc4k',
+    appId: '1:144084324397:ios:e64d9a995fb0c430ad28a4',
+    messagingSenderId: '144084324397',
+    projectId: 'twithub-app',
+    storageBucket: 'twithub-app.firebasestorage.app',
+    iosBundleId: 'com.example.twithub',
   );
-
-
 }
