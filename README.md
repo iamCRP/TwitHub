@@ -34,7 +34,7 @@ Built with Firebase backend and Provider state-management, Twithub is fast, scal
 
 ---
 
-## 📄 View all screenshots :- assets/Screenshots.pdf
+## 📄 View all screenshots :- [Screenshots.pdf](assets/Screenshots.pdf)
 
 ---
 
